@@ -2,6 +2,6 @@
 
 The Schema.org api for Java is a library for model/entities.
 
-##Links
+## Links
 
 - [Schema.org](https://schema.org)
